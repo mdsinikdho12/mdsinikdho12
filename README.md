@@ -36,7 +36,7 @@ Hi there! 👋 I'm **Sinikdho**
 ---
 
 ## 🔗 Portfolio
-🌐 [Visit My Portfolio](#) _(add your link here)_
+🌐 [Visit My Portfolio](#) _https://mdsinikdho.netlify.app/
 
 ---
 
