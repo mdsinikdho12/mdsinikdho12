@@ -106,6 +106,36 @@
 
 ###
 
+<h2 align="center">🏅 Official Scrimbassador</h2>
+
+<div align="center">
+
+<a href="https://scrimba.com/?via=u41afbe8" target="_blank">
+  <img src="https://img.shields.io/badge/✦%20SCRIMBASSADOR%20✦-8A4FFF?style=for-the-badge&logoColor=white" height="38" alt="Scrimbassador" />
+</a>
+
+<br/><br/>
+
+<a href="https://scrimba.com/?via=u41afbe8" target="_blank">
+  <img src="https://img.shields.io/badge/🚀%20Learn%20on%20Scrimba-2B283A?style=for-the-badge&logoColor=white" height="35" alt="Learn on Scrimba" />
+</a>
+
+<br/><br/>
+
+> 💜 I'm an **Official Scrimbassador** at [**Scrimba**](https://scrimba.com/?via=u41afbe8) — the most interactive & hands-on platform for learning web development!
+>
+> 🎯 Want to level up your coding skills? **[Join Scrimba using my referral link](https://scrimba.com/?via=u41afbe8)** and start your journey today! Let's grow together 🚀
+
+</div>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=8&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=onedark"  />
+</div>
+
+###
+
 <h3 align="center">🌐 Connect with Me:</h3>
 
 ###
@@ -133,16 +163,8 @@
 
 ###
 
-
-###
-
-
-
-###
-
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=20&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
 ###
-
