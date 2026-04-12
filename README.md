@@ -8,7 +8,7 @@
 
 ###
 
-<h4 align="center">💻 Passionate MERN Stack Web Developer & Python Programmer<br>🚀 Love to build projects and explore new technologies<br>📚 CSE Student | 📹 Content Creator | 🌙 Space Enthusiast</h4>
+<h4 align="center">💻 Passionate MERN Stack Web Developer & Python Programmer<br>🚀 Love to build projects and explore new technologies<br>📚 CST Student | 📹 Content Creator | 🌙 Space Enthusiast</h4>
 
 ###
 
