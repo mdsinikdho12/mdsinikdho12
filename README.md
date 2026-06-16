@@ -1,13 +1,11 @@
-<div align="center">
-  <img height="219" src="https://res.cloudinary.com/dcn58au6s/image/upload/v1781636211/cover44_prag5f.png" alt="Cover Image" />
-</div>
 
-<h1 align="center">Hey 👋 What's Up? I'm Sinikdho</h1>
+
+<h1 align="center">Hey, What's Up? I'm Sinikdho</h1>
 
 <h4 align="center">
-💻 Passionate MERN Stack Web Developer & TypeScript Enthusiast <br>
-🚀 Love to build scalable apps with Redux & modern tools <br>
-📚 CST Student | 📹 Content Creator | 🌙 Space Enthusiast
+  Passionate MERN Stack Web Developer &amp; TypeScript Enthusiast <br/>
+  Love to build scalable apps with Redux &amp; modern tools <br/>
+  CST Student &nbsp;|&nbsp; Content Creator &nbsp;
 </h4>
 
 <div>
@@ -16,117 +14,16 @@
 
 ---
 
-## 🧑‍💻 About Me
+<h2 align="center">About Me</h2>
 
-- 🎓 Pursuing **Diploma in Computer Science & Technology** at Kurigram Polytechnic Institute
-- 💼 **Founder** of [Code With Sinikdho](https://codewithsinikdho.vercel.app/)
-- 🌐 Portfolio: [mdsinikdho.vercel.app](https://mdsinikdho.vercel.app/)
-- 📬 Email: [mdsinikdho94@gmail.com](mailto:mdsinikdho94@gmail.com)
-- 🔭 Currently exploring **TypeScript**, **Redux Toolkit** & **Next.js App Router**
 
----
 
-<div>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=8&section=header&theme=onedark" />
-</div>
-
-## 💻 Tech Stack
-
-### 🌐 Frontend
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" title="HTML5"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" title="CSS3"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="50" title="Tailwind CSS"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" title="Bootstrap"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" title="JavaScript"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" title="TypeScript"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" title="React"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="50" title="Redux"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" title="Next.js"/>
-</div>
-
-<br/>
-
-### ⚙️ Backend
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" title="Node.js"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" title="Express.js"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" title="TypeScript"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" title="JavaScript"/>
-</div>
-
-<br/>
-
-### 🗄️ Database
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" title="MongoDB"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" title="MySQL"/>
-</div>
-
-<br/>
-
-### 💡 State Management
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="50" title="Redux / Redux Toolkit"/>
-</div>
-
-<br/>
-
-### 🧠 Programming Languages
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" title="JavaScript"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" title="TypeScript"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" title="Java"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" title="Python"/>
-</div>
-
-<br/>
-
-### 🎨 Design
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ps" height="46" title="Photoshop"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="46" title="Figma"/>
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=ai" height="46" title="Illustrator"/>
-</div>
-
-<br/>
-
-### 🛠️ Tools & DevOps
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" title="Git"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" title="GitHub"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" title="VS Code"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="50" title="Postman"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="50" title="npm"/>
-</div>
+| | |
+|---|---|
+| <img src="https://img.icons8.com/offices/30/administrator-male.png" width="18"/> &nbsp; **Role** | MERN Stack Web Developer |
+| <img src="https://img.icons8.com/offices/30/resume.png" width="18"/> &nbsp; **Portfolio** | [mdsinikdho.vercel.app](https://mdsinikdho.vercel.app/) |
+| <img src="https://img.icons8.com/offices/30/edit-file.png" width="18"/> &nbsp; **Blog** | [codewithsinikdho.vercel.app](https://codewithsinikdho.vercel.app/) |
+| <img src="https://img.icons8.com/offices/30/filled-message.png" width="18"/> &nbsp; **Email** | mdsinikdho94@gmail.com |
 
 ---
 
@@ -134,54 +31,207 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=8&section=header&theme=onedark" />
 </div>
 
-## 🚀 Featured Projects
+<h2 align="center">Tech Stack</h2>
+
+<h3 align="center">
+  <img src="https://skillicons.dev/icons?i=html" width="18"/>
+  Frontend
+</h3>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html" height="48" title="HTML5" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=css" height="48" title="CSS3" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" height="48" title="Tailwind CSS" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="48" title="Bootstrap" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=js" height="48" title="JavaScript" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=ts" height="48" title="TypeScript" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=react" height="48" title="React" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=redux" height="48" title="Redux / Redux Toolkit" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=nextjs" height="48" title="Next.js" />
+</div>
+
+<br/>
+
+<h3 align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs" width="18"/>
+  Backend
+</h3>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs" height="48" title="Node.js" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=express" height="48" title="Express.js" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=ts" height="48" title="TypeScript" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=js" height="48" title="JavaScript" />
+</div>
+
+<br/>
+
+<h3 align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb" width="18"/>
+  Database
+</h3>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb" height="48" title="MongoDB" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" height="48" title="MySQL" />
+</div>
+
+<br/>
+
+<h3 align="center">
+  <img src="https://skillicons.dev/icons?i=redux" width="18"/>
+  State Management
+</h3>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=redux" height="48" title="Redux / Redux Toolkit" />
+</div>
+
+<br/>
+
+<h3 align="center">
+  <img src="https://skillicons.dev/icons?i=ts" width="18"/>
+  Programming Languages
+</h3>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js" height="48" title="JavaScript" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=ts" height="48" title="TypeScript" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=java" height="48" title="Java" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=python" height="48" title="Python" />
+</div>
+
+<br/>
+
+<h3 align="center">
+  <img src="https://skillicons.dev/icons?i=figma" width="18"/>
+  Design
+</h3>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ps" height="48" title="Photoshop" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=figma" height="48" title="Figma" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=ai" height="48" title="Illustrator" />
+</div>
+
+<br/>
+
+<h3 align="center">
+  <img src="https://skillicons.dev/icons?i=git" width="18"/>
+  Tools &amp; DevOps
+</h3>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git" height="48" title="Git" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=github" height="48" title="GitHub" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" height="48" title="VS Code" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=postman" height="48" title="Postman" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=npm" height="48" title="npm" />
+</div>
+
+---
+
+<div>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=8&section=header&theme=onedark" />
+</div>
+
+<h2 align="center">Featured Projects</h2>
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>💰 Earning Platform</h3>
-      <p>Full-stack earning platform with user investments, referral commissions, wallet transactions, and a complete admin management panel.</p>
+   <td width="50%" valign="top">
+      <h3>
+        <img src="https://img.icons8.com/offices/30/edit-file.png" width="20"/>
+        &nbsp; Code With Sinikdho — Bangla Blog
+      </h3>
+      <p>A full-stack Bangla Blog Platform built for sharing web development tutorials, technical insights, and learning experiences in Bangla. It has everything you need for blog reading, newsletter subscription, category filters, and an admin panel.</p>
       <p>
-        <img src="https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
       </p>
-      <a href="https://growsx.site/">🌐 Live Demo</a> | Private Repo
+      <a href="https://codewithsinikdho.vercel.app/">
+        <img src="https://img.shields.io/badge/Live%20Demo-0A84FF?style=flat-square&logo=vercel&logoColor=white"/>
+      </a>
     </td>
     <td width="50%" valign="top">
-      <h3>🔗 DevApiHub</h3>
+      <h3>
+        <img src="https://res.cloudinary.com/dkmng0l5h/image/upload/v1769329459/uploads/ipsfrt7yikhy8wikwaea.png" width="20"/>
+        &nbsp; DevApiHub
+      </h3>
       <p>Developer-focused public API platform with curated free API endpoints for learning, testing, and building real-world projects.</p>
       <p>
-        <img src="https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/>
       </p>
-      <a href="https://devapihub.xyz/">🌐 Live Demo</a> | <a href="https://github.com/mdsinikdho12/Devapishub">📂 GitHub</a>
+      <a href="https://devapihub.xyz/">
+        <img src="https://img.shields.io/badge/Live%20Demo-0A84FF?style=flat-square&logo=vercel&logoColor=white"/>
+      </a>
+      &nbsp;
+      <a href="https://github.com/mdsinikdho12/Devapishub">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+      </a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>✅ TaskOrbit</h3>
+      <h3>
+        <img src="https://img.icons8.com/arcade/64/task.png" width="20"/>
+        &nbsp; TaskOrbit
+      </h3>
       <p>Modern Task Management App to help users organize daily activities, set deadlines, track progress, and stay productive.</p>
       <p>
-        <img src="https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/>
       </p>
-      <a href="https://taskorbit-sandy.vercel.app/">🌐 Live Demo</a> | Private Repo
+      <a href="https://taskorbit-sandy.vercel.app/">
+        <img src="https://img.shields.io/badge/Live%20Demo-0A84FF?style=flat-square&logo=vercel&logoColor=white"/>
+      </a>
     </td>
     <td width="50%" valign="top">
-      <h3>🎁 Salami Station</h3>
-      <p>Fun Eid salami request app — create personalized salami request cards & share with friends via WhatsApp, Messenger & Facebook.</p>
+      <h3>
+        <img src="https://skillicons.dev/icons?i=nextjs" width="20"/>
+        &nbsp; Salami Station
+      </h3>
+      <p>Fun Eid salami request app — create personalized salami request cards and share with friends via WhatsApp, Messenger and Facebook.</p>
       <p>
-        <img src="https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
       </p>
-      <a href="https://salami-station.vercel.app/">🌐 Live Demo</a> | <a href="https://github.com/mdsinikdho12/Salami-Station">📂 GitHub</a>
+      <a href="https://salami-station.vercel.app/">
+        <img src="https://img.shields.io/badge/Live%20Demo-0A84FF?style=flat-square&logo=vercel&logoColor=white"/>
+      </a>
+      &nbsp;
+      <a href="https://github.com/mdsinikdho12/Salami-Station">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+      </a>
     </td>
   </tr>
 </table>
@@ -194,23 +244,6 @@
 
 ---
 
-<div>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=8&section=header&theme=onedark" />
-</div>
-
-## 📝 Blog — Code With Sinikdho
-
-> I learn something new every day and share it in a simple, beginner-friendly way.
-
-<div align="center">
-  <a href="https://codewithsinikdho.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20My%20Blog-111827?style=for-the-badge&logo=hashnode&logoColor=white" height="36"/>
-  </a>
-  &nbsp;
-  <a href="https://web.facebook.com/CodeWithSinikdho" target="_blank">
-    <img src="https://img.shields.io/badge/Follow%20on%20Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="36"/>
-  </a>
-</div>
 
 ---
 
@@ -218,23 +251,23 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=8&section=header&theme=onedark" />
 </div>
 
-## 🏅 Official Scrimbassador
+<h2 align="center">Official Scrimbassador</h2>
 
 <div align="center">
 
 <a href="https://scrimba.com/?via=u41afbe8" target="_blank">
-  <img src="https://img.shields.io/badge/✦%20SCRIMBASSADOR%20✦-8A4FFF?style=for-the-badge" height="38" />
+  <img src="https://img.shields.io/badge/SCRIMBASSADOR-8A4FFF?style=for-the-badge" height="38" />
 </a>
 
 <br/><br/>
 
 <a href="https://scrimba.com/?via=u41afbe8" target="_blank">
-  <img src="https://img.shields.io/badge/🚀%20Learn%20on%20Scrimba-2B283A?style=for-the-badge" height="35" />
+  <img src="https://img.shields.io/badge/Learn%20on%20Scrimba-2B283A?style=for-the-badge" height="35" />
 </a>
 
 <br/><br/>
 
-> 💜 I'm an **Official Scrimbassador** at Scrimba — Join using my referral link and start your journey 🚀
+> I'm an **Official Scrimbassador** at Scrimba — Join using my referral link and start your journey.
 
 </div>
 
@@ -244,7 +277,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=8&section=header&theme=onedark" />
 </div>
 
-## 📊 GitHub Stats
+<h2 align="center">GitHub Stats</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mdsinikdho12&show_icons=true&theme=cobalt&hide_border=true&count_private=true" height="160"/>
@@ -256,9 +289,7 @@
   <img src="https://streak-stats.demolab.com/?user=mdsinikdho12&theme=dark&background=00000000&ring=0A84FF&fire=FF9F0A&currStreakLabel=0A84FF&sideLabels=ffffff&hide_border=true&stroke=ffffff10" height="150"/>
 </div>
 
-<div align="center">
-  <img src="https://ghchart.rshah.org/0A84FF/mdsinikdho12" width="100%"/>
-</div>
+
 
 ---
 
@@ -266,15 +297,15 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=8&section=header&theme=onedark" />
 </div>
 
-## 🌐 Connect with Me
+<h2 align="center">Connect with Me</h2>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/md-ferdousmahmud/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" title="LinkedIn"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" title="LinkedIn"/>
   </a>
   &nbsp;
   <a href="https://discord.com/invite/mdKmM5n3" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" title="Discord"/>
+    <img src="https://skillicons.dev/icons?i=discord" width="40" title="Discord"/>
   </a>
   &nbsp;
   <a href="https://www.facebook.com/Sinikdho12" target="_blank">
@@ -282,7 +313,7 @@
   </a>
   &nbsp;
   <a href="https://www.youtube.com/@codewithsinikdho" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="40" title="YouTube"/>
+    <img src="https://skillicons.dev/icons?i=youtube" width="40" title="YouTube"/>
   </a>
   &nbsp;
   <a href="https://www.instagram.com/mdsinikdhomahmud/" target="_blank">
