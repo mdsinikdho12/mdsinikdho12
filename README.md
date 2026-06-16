@@ -1,11 +1,9 @@
-
-
 <h1 align="center">Hey, What's Up? I'm Sinikdho</h1>
 
 <h4 align="center">
   Passionate MERN Stack Web Developer &amp; TypeScript Enthusiast <br/>
   Love to build scalable apps with Redux &amp; modern tools <br/>
-  CST Student &nbsp;|&nbsp; Content Creator &nbsp;
+  CST Student &nbsp;|&nbsp; Content Creator &nbsp;|&nbsp; Space Enthusiast
 </h4>
 
 <div>
@@ -16,14 +14,26 @@
 
 <h2 align="center">About Me</h2>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Student-Diploma%20CST-0A84FF?style=flat-square&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Portfolio-mdsinikdho.vercel.app-0A84FF?style=flat-square&logo=vercel&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Blog-codewithsinikdho.vercel.app-111827?style=flat-square&logo=hashnode&logoColor=white" />
+</div>
 
+<br/>
+
+<div align="center">
 
 | | |
-|---|---|
-| <img src="https://img.icons8.com/offices/30/administrator-male.png" width="18"/> &nbsp; **Role** | MERN Stack Web Developer |
-| <img src="https://img.icons8.com/offices/30/resume.png" width="18"/> &nbsp; **Portfolio** | [mdsinikdho.vercel.app](https://mdsinikdho.vercel.app/) |
-| <img src="https://img.icons8.com/offices/30/edit-file.png" width="18"/> &nbsp; **Blog** | [codewithsinikdho.vercel.app](https://codewithsinikdho.vercel.app/) |
-| <img src="https://img.icons8.com/offices/30/filled-message.png" width="18"/> &nbsp; **Email** | mdsinikdho94@gmail.com |
+|:---:|:---|
+| <img src="https://img.icons8.com/offices/30/administrator-male.png" width="18"/> | **Role** — MERN Stack Web Developer |
+| <img src="https://img.icons8.com/offices/30/resume.png" width="18"/> | **Portfolio** — [mdsinikdho.vercel.app](https://mdsinikdho.vercel.app/) |
+| <img src="https://img.icons8.com/offices/30/edit-file.png" width="18"/> | **Blog** — [codewithsinikdho.vercel.app](https://codewithsinikdho.vercel.app/) |
+| <img src="https://img.icons8.com/offices/30/filled-message.png" width="18"/> | **Email** — mdsinikdho94@gmail.com |
+
+</div>
 
 ---
 
@@ -33,10 +43,7 @@
 
 <h2 align="center">Tech Stack</h2>
 
-<h3 align="center">
-  <img src="https://skillicons.dev/icons?i=html" width="18"/>
-  Frontend
-</h3>
+<h3 align="center">Frontend</h3>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="48" title="HTML5" />
@@ -60,10 +67,7 @@
 
 <br/>
 
-<h3 align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs" width="18"/>
-  Backend
-</h3>
+<h3 align="center">Backend</h3>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nodejs" height="48" title="Node.js" />
@@ -77,10 +81,7 @@
 
 <br/>
 
-<h3 align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb" width="18"/>
-  Database
-</h3>
+<h3 align="center">Database</h3>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=mongodb" height="48" title="MongoDB" />
@@ -90,10 +91,7 @@
 
 <br/>
 
-<h3 align="center">
-  <img src="https://skillicons.dev/icons?i=redux" width="18"/>
-  State Management
-</h3>
+<h3 align="center">State Management</h3>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=redux" height="48" title="Redux / Redux Toolkit" />
@@ -101,10 +99,7 @@
 
 <br/>
 
-<h3 align="center">
-  <img src="https://skillicons.dev/icons?i=ts" width="18"/>
-  Programming Languages
-</h3>
+<h3 align="center">Programming Languages</h3>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="48" title="JavaScript" />
@@ -118,10 +113,7 @@
 
 <br/>
 
-<h3 align="center">
-  <img src="https://skillicons.dev/icons?i=figma" width="18"/>
-  Design
-</h3>
+<h3 align="center">Design</h3>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ps" height="48" title="Photoshop" />
@@ -133,10 +125,7 @@
 
 <br/>
 
-<h3 align="center">
-  <img src="https://skillicons.dev/icons?i=git" width="18"/>
-  Tools &amp; DevOps
-</h3>
+<h3 align="center">Tools &amp; DevOps</h3>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git" height="48" title="Git" />
@@ -160,12 +149,12 @@
 
 <table>
   <tr>
-   <td width="50%" valign="top">
+    <td width="50%" valign="top">
       <h3>
         <img src="https://img.icons8.com/offices/30/edit-file.png" width="20"/>
         &nbsp; Code With Sinikdho — Bangla Blog
       </h3>
-      <p>A full-stack Bangla Blog Platform built for sharing web development tutorials, technical insights, and learning experiences in Bangla. It has everything you need for blog reading, newsletter subscription, category filters, and an admin panel.</p>
+      <p>A full-stack Bangla Blog Platform built for sharing web development tutorials, technical insights, and learning experiences in Bangla. Features blog reading, newsletter subscription, category filters, and an admin panel.</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white"/>
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
@@ -178,7 +167,7 @@
     </td>
     <td width="50%" valign="top">
       <h3>
-        <img src="https://res.cloudinary.com/dkmng0l5h/image/upload/v1769329459/uploads/ipsfrt7yikhy8wikwaea.png" width="20"/>
+        <img src="https://skillicons.dev/icons?i=nextjs" width="20"/>
         &nbsp; DevApiHub
       </h3>
       <p>Developer-focused public API platform with curated free API endpoints for learning, testing, and building real-world projects.</p>
@@ -242,10 +231,6 @@
   </a>
 </div>
 
----
-
-
----
 
 <div>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=8&section=header&theme=onedark" />
@@ -288,8 +273,6 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=mdsinikdho12&theme=dark&background=00000000&ring=0A84FF&fire=FF9F0A&currStreakLabel=0A84FF&sideLabels=ffffff&hide_border=true&stroke=ffffff10" height="150"/>
 </div>
-
-
 
 ---
 
