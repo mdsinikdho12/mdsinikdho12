@@ -3,7 +3,7 @@
 <h4 align="center">
   Passionate MERN Stack Web Developer &amp; TypeScript Enthusiast <br/>
   Love to build scalable apps with Redux &amp; modern tools <br/>
-  CST Student &nbsp;|&nbsp; Content Creator &nbsp;|&nbsp; Space Enthusiast
+       CST Student &nbsp;|&nbsp; Content Creator 
 </h4>
 
 <div>
