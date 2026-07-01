@@ -264,11 +264,7 @@
 
 <h2 align="center">GitHub Stats</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdsinikdho12&show_icons=true&theme=cobalt&hide_border=true&count_private=true" height="160"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsinikdho12&layout=compact&theme=cobalt&hide_border=true" height="160"/>
-</div>
+
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=mdsinikdho12&theme=dark&background=00000000&ring=0A84FF&fire=FF9F0A&currStreakLabel=0A84FF&sideLabels=ffffff&hide_border=true&stroke=ffffff10" height="150"/>
